@@ -1555,13 +1555,19 @@ header .logo a {
 	font-size: 1.5rem;
 	line-height: 3rem;
 }
-.about-content .info-list li span, .about-content .info-list li span a {
+.about-content .info-list li span{
 	display: block;
 	font-family: "poppins-regular", sans-serif;
 	color: #888888;
 	font-size: 1.5rem;
 	line-height: 1;
 }
+
+.profil-link{
+	color: #888888;
+	cursor: pointer;
+}
+
 .about-content .skill-bars {
 	margin-top: 6rem;
 }
