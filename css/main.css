@@ -1818,11 +1818,15 @@ header .logo a {
 }
 #portfolio .folio-item img {
 	vertical-align: middle;
+	object-fit: cover;
+	height: 330px;
+	width: 100%;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	-webkit-transition: all 0.5s ease-in-out;
 	-ms-transition: all 0.5s ease-in-out;
 	transition: all 0.5s ease-in-out;
+	border: 1px solid #000;
 }
 
 #portfolio .overlay {
