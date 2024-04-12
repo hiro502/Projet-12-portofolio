@@ -353,7 +353,7 @@ th:last-child, td:last-child {
  * -------------------------------------------------------------------
  */
 button, .button {
-	margin-bottom: 1.2;
+	margin-bottom: 1.2rem;
 }
 fieldset {
 	margin-bottom: 1.5rem;
@@ -549,7 +549,6 @@ select {
 	-o-appearance: none;
 	appearance: none;
 	text-indent: 0.01px;
-	text-overflow: '';
 	margin: 0;
 	line-height: 3rem;
 	vertical-align: middle;
